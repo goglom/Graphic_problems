@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Shaders">
+        <file>GuroSceneObject.vert</file>
+        <file>GuroSceneObject.frag</file>
+        <file>LightSource.vert</file>
+        <file>FongSceneObject.frag</file>
+        <file>FongSceneObject.vert</file>
+        <file>LightSource.frag</file>
+        <file>Road.frag</file>
+    </qresource>
+    <qresource prefix="/Textures">
+        <file>Earth_Albedo.jpg</file>
+        <file>Earth_NormalMap.jpg</file>
+        <file>Sun_texture.jpg</file>
+        <file>road_1.jpg</file>
+        <file>road_2.jpg</file>
+        <file>road_3.jpg</file>
+        <file>sand.jpg</file>
+        <file>ChessBoard.png</file>
+        <file>concrete_1.jpg</file>
+    </qresource>
+</RCC>
